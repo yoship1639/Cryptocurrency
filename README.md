@@ -10,6 +10,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 This project is developed to work with Visual Studio 2017 (.net framework 4.7), please install them on your local machine.
 
+## Projects
+
+- [AddressGenerateTest](AddressGenerateTest) Generate and display a random cryptocurrency address
+- [DigitalSignatureTest](DigitalSignatureTest) Confirm the behavior of digital signature
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details
